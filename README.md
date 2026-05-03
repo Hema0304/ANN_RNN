@@ -154,7 +154,7 @@ This project provides a clear understanding of how ANN and RNN models function a
 [Live Demo](https://annrnn-daux7bsaxwyezwu8gvco8c.streamlit.app/)
 
 ##Screenshot
-![Screenshot]
+![Screenshot](screenshot.png)
 
 
 
