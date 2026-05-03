@@ -122,12 +122,6 @@ RNN-based models are widely used in forecasting and anomaly detection systems du
 
 Combines ANN (static data) and RNN (sequential data) in one project
 
-[Live Demo](https://annrnn-daux7bsaxwyezwu8gvco8c.streamlit.app/)
-
-##Screenshot
-![Screenshot]
-
-
 
 Demonstrates different learning approaches for different data types
 
@@ -156,6 +150,12 @@ Provides a foundation for LSTM, GRU, and advanced architectures
 
 ## Conclusion
 This project provides a clear understanding of how ANN and RNN models function and where they are best applied. It highlights the importance of choosing the right model depending on the nature of the data—static or sequential.
+
+[Live Demo](https://annrnn-daux7bsaxwyezwu8gvco8c.streamlit.app/)
+
+##Screenshot
+![Screenshot]
+
 
 
 
