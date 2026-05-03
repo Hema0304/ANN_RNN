@@ -56,11 +56,11 @@ RNN models can capture temporal dependencies, making them powerful for sequence-
 
 - TensorFlow / Keras / PyTorch 
 
--NumPy
+- NumPy
 
--Pandas
+- Pandas
 
--Matplotlib
+- Matplotlib
 
 
 
