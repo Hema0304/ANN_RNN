@@ -37,15 +37,15 @@ RNN models can capture temporal dependencies, making them powerful for sequence-
 ## Features
 
 
-> Implementation of ANN and RNN models
+-Implementation of ANN and RNN models
 
-> Handles both structured and sequential data
+-Handles both structured and sequential data
 
-> Demonstrates training and prediction workflows
+-Demonstrates training and prediction workflows
 
-> Shows performance evaluation of models
+-Shows performance evaluation of models
 
-> Easy-to-understand code for learning purposes
+-Easy-to-understand code for learning purposes
 
 
 
